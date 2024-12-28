@@ -9483,10 +9483,6 @@
         "value": true
       }
     },
-      "AutoRestartGG": {
-        "type": "checkbox",
-        "value": false
-      },
     "Storage": {
       "Storage": {
         "type": "storage",
