@@ -503,5 +503,10 @@ class GeneratedConfig:
     # Group `GameManager`
     GameManager_AutoRestart = True
 
+    # Group `AutoRestart`
+    AutoRestart_Enabled = False
+    AutoRestart_AttemptsToRestart = 114514
+    AutoRestart_NotifyWhenAutoRestart = False
+    
     # Group `Storage`
     Storage_Storage = {}
