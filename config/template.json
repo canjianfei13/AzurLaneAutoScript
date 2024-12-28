@@ -141,6 +141,11 @@
       "FailureInterval": 0,
       "ServerUpdate": "00:00"
     },
+    "AutoRestart": {
+      "Enabled": false,
+      "AttemptsToRestart": 114514,
+      "NotifyWhenAutoRestart": false
+    },
     "Storage": {
       "Storage": {}
     }
