@@ -82,6 +82,10 @@
       "name": "Raid",
       "help": ""
     },
+    "Hospital": {
+      "name": "病院探訪",
+      "help": ""
+    },
     "Coalition": {
       "name": "リトル学園",
       "help": ""
@@ -737,7 +741,7 @@
       "event_20220915_cn": "赫の涙月 菫の暁風（復刻）",
       "event_20221124_cn": "錬金術士と謎の遺跡群島",
       "event_20221222_cn": "積重なる事象の幻界（復刻）",
-      "event_20230223_cn": "黙示の遺構",
+      "event_20230223_cn": "黙示の遺構（復刻）",
       "event_20230525_cn": "覆天せし万象の塵",
       "event_20230803_cn": "燃ゆる聖都の回想曲",
       "event_20230817_cn": "愚者の天秤",
@@ -1282,6 +1286,16 @@
     "StageFilter": {
       "name": "RaidDaily.StageFilter.name",
       "help": "RaidDaily.StageFilter.help"
+    }
+  },
+  "Hospital": {
+    "_info": {
+      "name": "Hospital._info.name",
+      "help": "Hospital._info.help"
+    },
+    "UseRecommendFleet": {
+      "name": "Hospital.UseRecommendFleet.name",
+      "help": "Hospital.UseRecommendFleet.help"
     }
   },
   "MaritimeEscort": {

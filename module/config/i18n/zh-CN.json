@@ -82,6 +82,10 @@
       "name": "共斗活动",
       "help": ""
     },
+    "Hospital": {
+      "name": "深谷来信",
+      "help": ""
+    },
     "Coalition": {
       "name": "童心学院",
       "help": ""
@@ -737,7 +741,7 @@
       "event_20220915_cn": "复刻紫绛槿岚",
       "event_20221124_cn": "炼金术士与秘密遗迹群岛",
       "event_20221222_cn": "复刻定向折叠",
-      "event_20230223_cn": "湮烬尘墟",
+      "event_20230223_cn": "复刻湮烬尘墟",
       "event_20230525_cn": "空相交汇点",
       "event_20230803_cn": "奏响鸢尾之歌",
       "event_20230817_cn": "愚者的天平",
@@ -1282,6 +1286,16 @@
     "StageFilter": {
       "name": "难度过滤器",
       "help": ""
+    }
+  },
+  "Hospital": {
+    "_info": {
+      "name": "活动设置",
+      "help": ""
+    },
+    "UseRecommendFleet": {
+      "name": "使用舰队推荐",
+      "help": "如果关闭，需要事先手动为所有15个关卡配队"
     }
   },
   "MaritimeEscort": {
